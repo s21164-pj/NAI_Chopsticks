@@ -2,6 +2,10 @@
 
 Projekt NAI z wykorzystaniem easyAI
 
+## Uruchomienie gry
+Uruchom plik main.py
+
+
 ## Zasady
 
 http://en.wikipedia.org/wiki/Chopsticks_(hand_game)
@@ -27,4 +31,5 @@ Wizualizacja: https://www.youtube.com/watch?v=gm8asL2t_oM
 ## Twórcy
 
 Daniel Chabowski | s21164
+
 Szymon Dejewski | s21242

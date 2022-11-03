@@ -1,5 +1,5 @@
 from easyAI import TwoPlayerGame
-1
+
 class Chopsticks(TwoPlayerGame):
     """
     Prosta gra "Chopsticks" w którą możesz zagrać na palcach
