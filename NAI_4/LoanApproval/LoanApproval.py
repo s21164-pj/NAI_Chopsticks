@@ -15,7 +15,8 @@ from sklearn.model_selection import train_test_split
 read data from csv
 '''
 data = pd.read_csv("LoanApprovalPrediction.csv")
-data.head(5)
+# Printing first 5 records of the dataset
+print(data.head(5))
 
 
 '''
